@@ -14,8 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "aws-serverless-express": "^3.3.6",
-    "body-parser": "^1.19.0",
     "console-log-level": "^1.4.1",
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "joi": "^14.3.1",
@@ -24,5 +24,8 @@
     "morgan": "^1.9.1",
     "response-time": "^2.3.2",
     "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.518.0"
   }
 }
